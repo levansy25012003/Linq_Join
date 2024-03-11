@@ -1,0 +1,7 @@
+D:\ThayHuy\Buoi3\BtLinQ\BtLinQ\bin\Debug\BtLinQ.exe.config
+D:\ThayHuy\Buoi3\BtLinQ\BtLinQ\bin\Debug\BtLinQ.exe
+D:\ThayHuy\Buoi3\BtLinQ\BtLinQ\bin\Debug\BtLinQ.pdb
+D:\ThayHuy\Buoi3\BtLinQ\BtLinQ\obj\Debug\BtLinQ.csproj.AssemblyReference.cache
+D:\ThayHuy\Buoi3\BtLinQ\BtLinQ\obj\Debug\BtLinQ.csproj.CoreCompileInputs.cache
+D:\ThayHuy\Buoi3\BtLinQ\BtLinQ\obj\Debug\BtLinQ.exe
+D:\ThayHuy\Buoi3\BtLinQ\BtLinQ\obj\Debug\BtLinQ.pdb
